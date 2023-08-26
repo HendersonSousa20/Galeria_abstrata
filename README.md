@@ -18,7 +18,7 @@
 <br>
 
 <p align="center">
-  <img alt="projeto THE ABSTRACT GALLERY" src="./src/img/cover.png" width="100%">
+  <img alt="projeto THE ABSTRACT GALLERY" src="./src/img/Cover.png" width="100%">
 </p>
 
 ## 🚀 Tecnologias
